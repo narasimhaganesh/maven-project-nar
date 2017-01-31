@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mulesoft.training</groupId>
 	<artifactId>maven-project-nar</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>mule</packaging>
 	<name>Mule maven-project-nar Application</name>
 
@@ -151,7 +151,6 @@
     	<groupId>org.apache.activemq</groupId>
     	<artifactId>activemq-all</artifactId>
     	<version>${activemq.version}</version>
-    	<scope>provided</scope>
 	</dependency>
    	<!-- for testing -->
 		<dependency>

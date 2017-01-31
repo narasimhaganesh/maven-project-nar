@@ -7,10 +7,6 @@
   <classpathentry kind="output" path="target/classes"/>
   <classpathentry kind="con" path="MULE_RUNTIME"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-all/5.14.3/activemq-all-5.14.3.jar" sourcepath="M2_REPO/org/apache/activemq/activemq-all/5.14.3/activemq-all-5.14.3-sources.jar">
-    <attributes>
-      <attribute value="provided" name="org.mule.tooling.scope"/>
-    </attributes>
-  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-all/5.14.3/activemq-all-5.14.3.jar" sourcepath="M2_REPO/org/apache/activemq/activemq-all/5.14.3/activemq-all-5.14.3-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar"/>
 </classpath>
